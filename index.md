@@ -2,6 +2,8 @@
 layout: default
 title: "رسیدهای شارژ واحد ۱۵"
 rtl: "true"
+header-img: "assets/images/post-bg-universe.jpg"
+header-mask: 0.4
 ---
 
 ### [مشاهده رسید‌های سال گذشته (۱۴۰۳)](./another-page.html)
