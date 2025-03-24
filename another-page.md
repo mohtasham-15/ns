@@ -2,19 +2,40 @@
 layout: default
 ---
 
-## پرداختی های سال 1403
+### رسید پرداختی‌های سال 1403  
 
-<br>  
+<p align="center">
+  <img src="./assets/images/pay/aban-1.png" alt="Aban" width="350"/>
+  <br>
+  <em>توضیح تصویر یا کپشن اینجا قرار می‌گیرد</em>
+</p>
 
-**شهریور**
 
-<img src="./assets/images/pay/shahrivar.jpg" alt="Shahrivar" width="360px"/>
+
+<p align="center">
+  <img src="./assets/images/pay/aban-1.png" alt="Aban" width="350"/>
+  <br>
+  <em>توضیح تصویر یا کپشن اینجا قرار می‌گیرد</em>
+</p>
+
+
+
+**شهریور ماه**
+<p align="center">
+  <img src="./assets/images/pay/shahrivar.jpg" alt="Shahrivar" width="360px"/>
+  <br>
+  <em>توضیح تصویر یا کپشن اینجا قرار می‌گیرد</em>
+</p>
 
 <br><br> 
 
-**آبان**
+**آبان ماه**
+<p align="center">
+  <img src="./assets/images/pay/aban-1.png" alt="Aban" width="350px"/>
+  <br>
+  <em>ت</em>
+</p>
 
-<img src="./assets/images/pay/aban-1.png" alt="Aban" width="350px"/>
 
 <br><br> 
 
