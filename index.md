@@ -1,28 +1,37 @@
 ---
 layout: default
+title: "رسیدهای شارژ واحد ۱۵"
+rtl: "true"
 ---
 
 
-**[Link to another page](./another-page.html).**
+**[مشاهده رسید‌های سال گذشته (۱۴۰۳)](./another-page.html).**
 
 
 
+# رسیدهای پرداخت‌ شارژ ساختمان سال ۱۴۰۴  
 
-## سال 1404
+<br><br> 
 
-**فروردین**
+## فروردین ماه ۱۴۰۴  
 
-رسید خرید لامپ و سرپیچ دم درب وروی سمت کوچه پشتی + رسید پرداختی مابقی شارژ
+**رسید خرید لامپ و سرپیچ برای لابی سمت کوچه پشتی بعلاوه رسید واریزی مابقی شارژ ساختمان**
 
-<br> 
+<br>
+<p align="center">
+   <img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-1.jpg" width="420px"/>
+   <br>
+   <em> لامپ ورودی رو یکبار تعمیر کردم ولی خیلی از ال‌ای‌دی‌ های اون ریخته بود دیگه ناچار به تعویض بودیم، از سیتادیوم یک لامپ هم توان با قبلی و قیمت مناسب گرفتم منتها موقع بستن دیدم سرپیچ شکسته شده و با اجازتون سرپیچ هم گرفتم همونروز و عوض کردم </em>
 
-<img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-1.jpg" width="360px"/>
+<br><br> 
 
-<br> 
+<br>
+<p align="center">
+   <img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-2.jpg" width="420px"/>
+   <br>
+   <em> این ۵۳ هزارتومن هم باقی مونده هزینه شارژ فروردین بود که واریز شد <em>  
+   
 
-<img src="./assets/images/pay/farvardin-2.jpg" alt="farvardin-2" width="360px"/>
-
-<br> 
 
 ```
 The final element.
