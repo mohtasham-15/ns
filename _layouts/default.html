@@ -18,28 +18,14 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <ul>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-            {% if site.show_downloads %}
-              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-              <li class="title">DOWNLOADS</li>
-            {% endif %}
-          </ul>
-        </nav>
-      </div><!-- end header -->
-
     <div class="wrapper">
-
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <h1>{{ site.title | default: github.repository_name }}</h1>
+          <p>{{ site.description | default: github.project_tagline }}</p>
           <hr>
           <span class="credits left">Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Do you need ai assistant ? &mdash; T <a href="https://grok.com/">It's Grok</a></span>
+          <span class="credits right">Do you need ai assistant ? &mdash; <a href="https://grok.com/">I'm Grok</a></span>
         </div>
 
         {{ content }}
