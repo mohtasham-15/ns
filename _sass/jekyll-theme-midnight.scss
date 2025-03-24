@@ -13,6 +13,11 @@ body {
   background: linear-gradient(#2a2a29, #1c1c1c);
 }
 
+body.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#e8e8e8;
   margin:0 0 10px;
