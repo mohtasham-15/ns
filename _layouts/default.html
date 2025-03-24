@@ -20,6 +20,7 @@
   <body>
     <div class="wrapper">
       <section>
+        <body class="{% if page.rtl %}rtl{% endif %}" ontouchstart="">
         <div id="title">
           <h1>{{ site.title | default: github.repository_name }}</h1>
           <p>{{ site.description | default: github.project_tagline }}</p>
