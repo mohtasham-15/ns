@@ -19,7 +19,7 @@ rtl: "true"
 
 <br>
 <p align="center">
-   <img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-1.jpg" width="420px"/>
+   <img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-1" width="420px"/>
    <br>
    <em> لامپ ورودی رو یکبار تعمیر کردم ولی خیلی از ال‌ای‌دی‌ های اون ریخته بود دیگه ناچار به تعویض بودیم، از سیتادیوم یک لامپ هم توان با قبلی و قیمت مناسب گرفتم منتها موقع بستن دیدم سرپیچ شکسته شده و با اجازتون سرپیچ هم گرفتم همونروز و عوض کردم </em>
 
@@ -27,7 +27,7 @@ rtl: "true"
 
 <br>
 <p align="center">
-   <img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-2.jpg" width="420px"/>
+   <img src="./assets/images/pay/farvardin-2.jpg" alt="farvardin-2" width="420px"/>
    <br>
    <em> این ۵۳ هزارتومن هم باقی مونده هزینه شارژ فروردین بود که واریز شد <em>  
    
