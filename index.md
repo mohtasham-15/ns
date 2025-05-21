@@ -1,54 +1,57 @@
 ---
 layout: default
 title: "رسیدهای شارژ واحد ۱۵"
-rtl: "true"
+rtl: true
 ---
-## رسیدهای پرداخت‌ شارژ ساختمان سال ۱۴۰۴  
 
-**[مشاهده رسید‌های سال گذشته (۱۴۰۳)](./another-page.html)**  
+# رسیدهای پرداخت شارژ ساختمان – سال ۱۴۰۴
 
-<br><br> 
-
-## خرداد ماه ۱۴۰۴  
-<br>
-<p align="center">
-   <img src="./assets/images/pay/Khordad-1404.jpg" alt="Khordad-1404" width="420px"/>
-   <br>
-   <em> رسید پرداخت شارژ هم خرداد 1404 </em>  
-
-----
-
-<br><br> 
-
-## اردیبهشت ماه ۱۴۰۴  
-
-<br>
-<p align="center">
-   <img src="./assets/images/pay/Ordibehesht-1404.jpg" alt="Ordibeheaht-1404" width="420px"/>
-   <br>
-   <em> رسید پرداخت شارژ اردیبهشت 1404 </em>   
-
-----
-
-<br><br>  
-
-## فروردین ماه ۱۴۰۴  
-
-**رسید خرید لامپ و سرپیچ برای لابی سمت کوچه پشتی بعلاوه رسید واریزی مابقی شارژ ساختمان**  
-
-<br>  
-<p align="center">
-   <img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-1" width="420px"/>
-   <br>
-   <em> لامپ ورودی رو یکبار تعمیر کردم ولی خیلی از ال‌ای‌دی‌های اون ریخته بود دیگه ناچار بودیم عوضش کنیم، از سیتادیوم یک لامپ هم توان با قبلی و قیمت مناسب گرفتم منتها موقع بستن دیدم سرپیچ شکسته شده و با اجازتون همون‌روز سرپیچ هم گرفتم و عوض کردم </em>  
-
-<br>  
-
-<p align="center">
-   <img src="./assets/images/pay/farvardin-2.jpg" alt="farvardin-2" width="420px"/>
-   <br>
-   <em> این ۵۳ هزارتومن هم باقی مونده هزینه شارژ فروردین بود که واریز شد <em>  
+<div dir="rtl" align="right">
+<a href="./another-page.html"><strong>مشاهده رسید‌های سال گذشته (۱۴۰۳)</strong></a>
+</div>
 
 ---
 
-<br><br> 
+## خرداد ماه ۱۴۰۴
+
+<div align="center">
+  <img src="./assets/images/pay/Khordad-1404.jpg" alt="رسید خرداد" width="420px"/>
+  <br>
+  <em>رسید پرداخت شارژ خرداد ۱۴۰۴</em>
+</div>  
+
+<br><br>   
+
+---
+
+## اردیبهشت ماه ۱۴۰۴
+
+<div align="center">
+  <img src="./assets/images/pay/Ordibehesht-1404.jpg" alt="رسید اردیبهشت" width="420px"/>
+  <br>
+  <em>رسید پرداخت شارژ اردیبهشت ۱۴۰۴</em>
+</div>  
+
+<br><br>   
+
+---
+
+## فروردین ماه ۱۴۰۴
+
+**رسید خرید لامپ و سرپیچ برای لابی سمت کوچه پشتی، بعلاوه رسید واریزی مابقی شارژ فروردین**
+
+<div align="center">
+  <img src="./assets/images/pay/farvardin-1.jpg" alt="خرید لامپ" width="420px"/>
+  <br>
+  <em>لامپ ورودی رو یکبار تعمیر کردم ولی خیلی از ال‌ای‌دی‌هاش ریخته بود؛ ناچار شدم عوضش کنم. از سیتادیوم لامپ هم‌توان با قبلی و قیمت مناسب گرفتم. موقع بستن دیدم سرپیچ شکسته شده، با اجازتون همون‌روز سرپیچ هم گرفتم و عوض کردم.</em>
+</div>
+
+<br>  
+
+<div align="center">
+  <img src="./assets/images/pay/farvardin-2.jpg" alt="واریزی مابقی شارژ" width="420px"/>
+  <br>
+  <em>این ۵۳ هزارتومن هم باقی‌مونده هزینه شارژ فروردین بود که واریز شد.</em>
+</div>
+
+---
