@@ -94,7 +94,7 @@ rtl: true
 
 ---
 
-<br><br>
+<br><br>  
 
 ## شهریور ماه ۱۴۰۳  
 
@@ -106,8 +106,10 @@ rtl: true
 
 ---
 
-<br><br>
+<br><br>  
 
-<div align="right">
-<a href="./index.html"><strong> 💎مشاهده رسید‌های سال جدید (۱۴۰۴)</strong></a>
-</div>
+<div dir="rtl" align="right">
+<a href="./index.html"><strong> 💎 مشاهده رسید‌های سال جدید (۱۴۰۴)</strong></a>
+</div>  
+
+---  
