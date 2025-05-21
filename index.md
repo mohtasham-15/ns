@@ -5,12 +5,20 @@ rtl: "true"
 ---
 ## رسیدهای پرداخت‌ شارژ ساختمان سال ۱۴۰۴  
 
-**[مشاهده رسید‌های سال گذشته (۱۴۰۳)](./another-page.html)**
+**[مشاهده رسید‌های سال گذشته (۱۴۰۳)](./another-page.html)**  
+
+<br><br> 
+
+## خرداد ماه ۱۴۰۴  
+<br>
+<p align="center">
+   <img src="./assets/images/pay/Khordad-1404.jpg" alt="Khordad-1404" width="420px"/>
+   <br>
+   <em> رسید پرداخت شارژ هم خرداد 1404 </em>  
 
 <br><br> 
 
 ## اردیبهشت ماه ۱۴۰۴  
-
 <br>
 <p align="center">
    <img src="./assets/images/pay/Ordibehesht-1404.jpg" alt="Ordibeheaht-1404" width="420px"/>
