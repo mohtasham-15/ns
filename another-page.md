@@ -2,7 +2,9 @@
 layout: default
 title: "رسیدهای شارژ واحد ۱۵"
 rtl: true
----
+---  
+
+<br>  
 
 # رسیدهای پرداخت‌ شارژ ساختمان سال ۱۴۰۳  
 
@@ -14,7 +16,7 @@ rtl: true
    <img src="./assets/images/pay/esfand.jpg" alt="رسید اسفند" width="420px"/>
    <br>
    <em>اسفند ماه</em>
-</div>
+</div>  
 
 ---
 
@@ -107,5 +109,5 @@ rtl: true
 <br><br>
 
 <div align="right">
-<a href="./index.md"><strong>مشاهده رسید‌های سال جدید (۱۴۰۴)</strong></a>
+<a href="./index.html"><strong> 💎مشاهده رسید‌های سال جدید (۱۴۰۴)</strong></a>
 </div>
