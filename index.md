@@ -16,8 +16,9 @@ rtl: "true"
    <br>
    <em> رسید پرداخت شارژ هم خرداد 1404 </em>  
 
-<br><br> 
+----
 
+<br><br> 
 
 ## اردیبهشت ماه ۱۴۰۴  
 
@@ -25,18 +26,17 @@ rtl: "true"
 <p align="center">
    <img src="./assets/images/pay/Ordibehesht-1404.jpg" alt="Ordibeheaht-1404" width="420px"/>
    <br>
-   <em> رسید پرداخت شارژ اردیبهشت 1404 </em>  
+   <em> رسید پرداخت شارژ اردیبهشت 1404 </em>   
+
+----
 
 <br><br>  
 
-
 ## فروردین ماه ۱۴۰۴  
-
 
 **رسید خرید لامپ و سرپیچ برای لابی سمت کوچه پشتی بعلاوه رسید واریزی مابقی شارژ ساختمان**  
 
 <br>  
-
 <p align="center">
    <img src="./assets/images/pay/farvardin-1.jpg" alt="farvardin-1" width="420px"/>
    <br>
@@ -48,5 +48,7 @@ rtl: "true"
    <img src="./assets/images/pay/farvardin-2.jpg" alt="farvardin-2" width="420px"/>
    <br>
    <em> این ۵۳ هزارتومن هم باقی مونده هزینه شارژ فروردین بود که واریز شد <em>  
-   
+
+---
+
 <br><br> 
