@@ -12,9 +12,15 @@ rtl: true
 <a href="./another-page.html"><strong> 💎 مشاهده رسید‌های سال گذشته (۱۴۰۳)</strong></a>
 </div>  
 
-<br><br>   
+<br/><br/>   
 
----  
+## مرداد ماه ۱۴۰۴
+
+<div align="center">
+  <img src="./assets/images/pay/Mordad-1404.jpg" alt="رسید تیر" width="420px"/>
+  <br>
+  <em>رسید پرداخت شارژ مرداد ماه ۱۴۰۴</em>
+</div><br/><br/>   
 
 ## تیر ماه ۱۴۰۴
 
@@ -22,11 +28,7 @@ rtl: true
   <img src="./assets/images/pay/Tir-1404.jpg" alt="رسید تیر" width="420px"/>
   <br>
   <em>رسید پرداخت شارژ تیرماه ۱۴۰۴</em>
-</div>  
-
-<br><br/>   
-
----  
+</div><br/><br/>
 
 ## خرداد ماه ۱۴۰۴
 
@@ -34,11 +36,7 @@ rtl: true
   <img src="./assets/images/pay/Khordad-1404.jpg" alt="رسید خرداد" width="420px"/>
   <br>
   <em>رسید پرداخت شارژ خرداد ۱۴۰۴</em>
-</div>  
-
-<br><br>   
-
----
+</div><br/><br/>
 
 ## اردیبهشت ماه ۱۴۰۴
 
@@ -46,11 +44,7 @@ rtl: true
   <img src="./assets/images/pay/Ordibehesht-1404.jpg" alt="رسید اردیبهشت" width="420px"/>
   <br>
   <em>رسید پرداخت شارژ اردیبهشت ۱۴۰۴</em>
-</div>  
-
-<br><br>   
-
----
+</div><br/><br/>
 
 ## فروردین ماه ۱۴۰۴
 
@@ -60,14 +54,10 @@ rtl: true
   <img src="./assets/images/pay/farvardin-1.jpg" alt="خرید لامپ" width="420px"/>
   <br>
   <em>لامپ ورودی رو یکبار تعمیر کردم ولی خیلی از ال‌ای‌دی‌هاش ریخته بود؛ ناچار شدم عوضش کنم. از سیتادیوم لامپ هم‌توان با قبلی و قیمت مناسب گرفتم. موقع بستن دیدم سرپیچ شکسته شده، با اجازتون همون‌روز سرپیچ هم گرفتم و عوض کردم.</em>
-</div>
-
-<br>  
+</div><br/>
 
 <div align="center">
   <img src="./assets/images/pay/farvardin-2.jpg" alt="واریزی مابقی شارژ" width="420px"/>
   <br>
   <em>این ۵۳ هزارتومن هم باقی‌مونده هزینه شارژ فروردین بود که واریز شد.</em>
 </div>
-
----
