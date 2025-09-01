@@ -20,6 +20,13 @@ rtl: true
 <div align="center">
   <img src="./assets/images/pay/Shahrivar-1404.jpg" alt="رسید شهریور" width="420px"/>
   <br>
+  <em>مابه‌التفاوت شارژ مرداد و شهریور، مدیر محترم فرمودن شارژ دوماهه افزایش یافته، ولی یدونه پیام ندادن در جریان باشیم. </em>
+</div><br/><br/>
+
+
+<div align="center">
+  <img src="./assets/images/pay/Shahrivar-1404.jpg" alt="رسید شهریور" width="420px"/>
+  <br>
   <em>رسید پرداخت شارژ شهریور ماه ۱۴۰۴</em>
 </div><br/><br/>
 
