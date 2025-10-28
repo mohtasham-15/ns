@@ -19,7 +19,7 @@ rtl: true
 
 <br/><br/>   
 
-## مهر ماه ۱۴۰۴
+## آبان ماه ۱۴۰۴
 
 <div align="center">
   <img src="./assets/images/pay/aban-1404.jpg" alt="رسید-ماه-آبان" width="420px"/>
