@@ -22,7 +22,17 @@ rtl: true
 ## مهر ماه ۱۴۰۴
 
 <div align="center">
-  <img src="./assets/images/pay/Mehr-1404.jpg" alt="رسید-ماه-مهذ" width="420px"/>
+  <img src="./assets/images/pay/aban-1404.jpg" alt="رسید-ماه-آبان" width="420px"/>
+  <br>
+  <em>رسید پرداخت شارژ آبان ماه ۱۴۰۴</em>
+</div>
+<br><br/>
+
+
+## مهر ماه ۱۴۰۴
+
+<div align="center">
+  <img src="./assets/images/pay/Mehr-1404.jpg" alt="رسید-ماه-مهر" width="420px"/>
   <br>
   <em>رسید پرداخت شارژ مهر ماه ۱۴۰۴</em>
 </div>
