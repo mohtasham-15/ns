@@ -11,7 +11,7 @@ rtl: true
 
 ## ساختمان محتشم، واحد ۱۵
 
-## سال ۱۴۰۴
+## سال جاری - ۱۴۰۴
 
 <div dir="rtl" align="right">
 <a href="./another-page.html"><strong> 💎 مشاهده رسید‌های سال گذشته (۱۴۰۳)</strong></a>
@@ -19,10 +19,19 @@ rtl: true
 
 <br/><br/>   
 
+## آذر ماه ۱۴۰۴
+
+<div align="center">
+  <img src="./assets/images/pay/Azar-1404.jpg" alt="رسید-ماه-آذر" width="420px"/>
+  <br>
+  <em>رسید پرداخت شارژ آذر ماه ۱۴۰۴</em>
+</div>
+<br><br/>
+
 ## آبان ماه ۱۴۰۴
 
 <div align="center">
-  <img src="./assets/images/pay/aban-1404.jpg" alt="رسید-ماه-آبان" width="420px"/>
+  <img src="./assets/images/pay/Aban-1404.jpg" alt="رسید-ماه-آبان" width="420px"/>
   <br>
   <em>رسید پرداخت شارژ آبان ماه ۱۴۰۴</em>
 </div>
