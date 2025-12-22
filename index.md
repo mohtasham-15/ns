@@ -13,16 +13,26 @@ rtl: true
 
 ## سال جاری - ۱۴۰۴
 
+<br><br/>
+
 <div dir="rtl" align="right">
 <a href="./another-page.html"><strong> 💎 مشاهده رسید‌های سال گذشته (۱۴۰۳)</strong></a>
 </div>  
-
 <br/><br/>   
+
+## دی ماه ۱۴۰۴
+
+<div align="center">
+  <img src="./assets/images/pay/Dey-1404.jpg" alt="رسید-ماه-دی" width="1080px"/>
+  <br>
+  <em>رسید پرداخت شارژ دی ماه ۱۴۰۴</em>
+</div>
+<br><br/>
 
 ## آذر ماه ۱۴۰۴
 
 <div align="center">
-  <img src="./assets/images/pay/Azar-1404.jpg" alt="رسید-ماه-آذر" width="420px"/>
+  <img src="./assets/images/pay/Azar-1404.jpg" alt="رسید-آذر-ماه" width="1080px"/>
   <br>
   <em>رسید پرداخت شارژ آذر ماه ۱۴۰۴</em>
 </div>
@@ -31,12 +41,11 @@ rtl: true
 ## آبان ماه ۱۴۰۴
 
 <div align="center">
-  <img src="./assets/images/pay/Aban-1404.jpg" alt="رسید-ماه-آبان" width="420px"/>
+  <img src="./assets/images/pay/Aban-1404.jpg" alt="رسید-آبان-ماه" width="1080px"/>
   <br>
   <em>رسید پرداخت شارژ آبان ماه ۱۴۰۴</em>
 </div>
 <br><br/>
-
 
 ## مهر ماه ۱۴۰۴
 
@@ -55,7 +64,6 @@ rtl: true
   <em>مابه‌التفاوت شارژ مرداد و شهریور، مدیر محترم فرمودن شارژ دوماهه افزایش یافته، ولی یدونه پیام ندادن در جریان باشیم. </em>
 </div>
 <br><br/>
-
 
 <div align="center">
   <img src="./assets/images/pay/Shahrivar-1404.jpg" alt="رسید شهریور" width="420px"/>
